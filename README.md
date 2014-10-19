@@ -10,14 +10,15 @@ http://www.cashphoner.org
 
 Primary Technologies
 ==========
+-Proprietary software from http://www.hash65.io/
 
-PhoneChain      https://github.com/ola-aj/PhoneChain
+-PhoneChain      https://github.com/ola-aj/PhoneChain
 
-PhoneChain Servers
+-PhoneChain Servers
 
-Smart contracts
+-Smart contracts
 
-Decentralized storage
+-Decentralized storage
 
-Webrtc and Websockets
+-Webrtc and Websockets
 
